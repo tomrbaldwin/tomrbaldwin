@@ -5,6 +5,6 @@
 - 🌱 Learning HTML, CSS, JavaScript, Java...
 - 👯 Looking to contribute to some cool projects.
 - 🤔 Developing programming skills.
-- Website: [tombaldw.in](tombaldw.in)
+- Working on [tombaldw.in](tombaldw.in)
 
  <!-- end About section-->

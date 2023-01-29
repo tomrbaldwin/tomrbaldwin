@@ -1,10 +1,10 @@
  <!-- About section-->
  
  ## About me
-- 🔭 I am currently studying CS.
-- 🌱 I am learning HTML, CSS, JavaScript, Java...
-- 👯 I am looking to contribute to some simple projects.
-- 🤔 I am looking for help developing programming skills.
+- 🔭 Currently studying CS.
+- 🌱 Learning HTML, CSS, JavaScript, Java...
+- 👯 Looking to contribute to some cool projects.
+- 🤔 Developing programming skills.
 - Website: [tombaldw.in](tombaldw.in)
 
  <!-- end About section-->
